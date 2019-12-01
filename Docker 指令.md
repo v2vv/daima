@@ -1,0 +1,1 @@
+docker container prune 删除所有未在运行的容器
